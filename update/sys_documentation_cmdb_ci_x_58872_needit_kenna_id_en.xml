@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="x_58872_needit_kenna_id" label="Kenna Id" language="en" table="cmdb_ci">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_58872_needit_kenna_id</element>
+            <help/>
+            <hint/>
+            <label>Kenna Id</label>
+            <language>en</language>
+            <name>cmdb_ci</name>
+            <plural>Kenna Ids</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ajinkya.avachat@snc</sys_created_by>
+            <sys_created_on>2018-02-09 21:20:43</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>2754adf31348df00481a3d62f244b0b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Kenna Id</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_cmdb_ci_x_58872_needit_kenna_id_en</sys_update_name>
+            <sys_updated_by>ajinkya.avachat@snc</sys_updated_by>
+            <sys_updated_on>2018-02-09 21:20:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
